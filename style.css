@@ -53,5 +53,5 @@
   background-color: rgb(35, 161, 220);
   margin: 15px;
   display: inline-block;
-  flex-wrap:initial;
+  flex-wrap: wrap;
 }
